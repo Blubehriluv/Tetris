@@ -6,7 +6,7 @@ using UnityEngine;
 public class playGame : MonoBehaviour {
 
     // Use this for initialization
-    public void ChangeScene(string sceneName)
+    public void startGame()
     {
         SceneManager.LoadScene("SampleScene");
     }
