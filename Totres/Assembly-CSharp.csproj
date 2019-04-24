@@ -61,24 +61,32 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Imported Canvas Stuff\Imported Scripts\ActiveStateToggler.cs" />
-    <Compile Include="Assets\Imported Canvas Stuff\Imported Scripts\ApplicationManager.cs" />
-    <Compile Include="Assets\Imported Canvas Stuff\Imported Scripts\ChangeColor.cs" />
-    <Compile Include="Assets\Imported Canvas Stuff\Imported Scripts\DragMe.cs" />
-    <Compile Include="Assets\Imported Canvas Stuff\Imported Scripts\DragPanel.cs" />
-    <Compile Include="Assets\Imported Canvas Stuff\Imported Scripts\DropMe.cs" />
-    <Compile Include="Assets\Imported Canvas Stuff\Imported Scripts\PanelManager.cs" />
-    <Compile Include="Assets\Imported Canvas Stuff\Imported Scripts\ResizePanel.cs" />
-    <Compile Include="Assets\Imported Canvas Stuff\Imported Scripts\ScrollDetailTexture.cs" />
-    <Compile Include="Assets\Imported Canvas Stuff\Imported Scripts\ShowSliderValue.cs" />
-    <Compile Include="Assets\Imported Canvas Stuff\Imported Scripts\TiltWindow.cs" />
-    <Compile Include="Assets\Scripts\BlockFall.cs" />
-    <Compile Include="Assets\Scripts\BlockMovement.cs" />
-    <Compile Include="Assets\Scripts\playGame.cs" />
-    <Compile Include="Assets\Scripts\quitGame.cs" />
-    <None Include="Assets\Imported Canvas Stuff\Fonts\Jupiter\LICENSE.txt" />
-    <None Include="Assets\Imported Canvas Stuff\Textures and Sprites\SF UI\Background\LICENSE.txt" />
-    <None Include="Assets\Imported Canvas Stuff\Materials\UI-Default-No-Alpha.shader" />
+    <Compile Include="Assets\Resources\Imported Canvas Stuff\Imported Scripts\ActiveStateToggler.cs" />
+    <Compile Include="Assets\Resources\Imported Canvas Stuff\Imported Scripts\ApplicationManager.cs" />
+    <Compile Include="Assets\Resources\Imported Canvas Stuff\Imported Scripts\ChangeColor.cs" />
+    <Compile Include="Assets\Resources\Imported Canvas Stuff\Imported Scripts\DragMe.cs" />
+    <Compile Include="Assets\Resources\Imported Canvas Stuff\Imported Scripts\DragPanel.cs" />
+    <Compile Include="Assets\Resources\Imported Canvas Stuff\Imported Scripts\DropMe.cs" />
+    <Compile Include="Assets\Resources\Imported Canvas Stuff\Imported Scripts\PanelManager.cs" />
+    <Compile Include="Assets\Resources\Imported Canvas Stuff\Imported Scripts\ResizePanel.cs" />
+    <Compile Include="Assets\Resources\Imported Canvas Stuff\Imported Scripts\ScrollDetailTexture.cs" />
+    <Compile Include="Assets\Resources\Imported Canvas Stuff\Imported Scripts\ShowSliderValue.cs" />
+    <Compile Include="Assets\Resources\Imported Canvas Stuff\Imported Scripts\TiltWindow.cs" />
+    <Compile Include="Assets\Resources\Scripts\BlockFall.cs" />
+    <Compile Include="Assets\Resources\Scripts\BlockMovement.cs" />
+    <Compile Include="Assets\Resources\Scripts\game.cs" />
+    <Compile Include="Assets\Resources\Scripts\moveLeft.cs" />
+    <Compile Include="Assets\Resources\Scripts\moveRight.cs" />
+    <Compile Include="Assets\Resources\Scripts\playGame.cs" />
+    <Compile Include="Assets\Resources\Scripts\quitGame.cs" />
+    <Compile Include="Assets\Resources\Scripts\Shooting\shootBlocks.cs" />
+    <Compile Include="Assets\Resources\Scripts\Shooting\shootBlocks2.cs" />
+    <Compile Include="Assets\Resources\Scripts\Shooting\shootBlocks3.cs" />
+    <Compile Include="Assets\Resources\Scripts\Shooting\shootBlocks4.cs" />
+    <Compile Include="Assets\Resources\Scripts\stopMoving.cs" />
+    <None Include="Assets\Resources\Imported Canvas Stuff\Fonts\Jupiter\LICENSE.txt" />
+    <None Include="Assets\Resources\Imported Canvas Stuff\Textures and Sprites\SF UI\Background\LICENSE.txt" />
+    <None Include="Assets\Resources\Imported Canvas Stuff\Materials\UI-Default-No-Alpha.shader" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/taymcken/Documents/GitHub/Tetris/Totres/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
